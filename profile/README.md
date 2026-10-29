@@ -10,10 +10,10 @@ The technology that could help prevent road deaths already exists, but most of i
 
 Safety Intelligence observes and scores. It reads what happened, explains it and keeps a record. It never changes a vehicle's behavior.
 
-| Product | What it does | Price |
-|---|---|---|
-| **Parakaleo Engine** | Software that runs in the vehicle and reads a supported radar the vehicle already has. Needs a vehicle from 2010 or newer with a supported radar, plus parts you source yourself against our published specification. | $15 per vehicle per month |
-| **Parakaleo Mobile** | Uses the sensors in a driver's phone through the Parakaleo Drive app. Nothing to buy for the vehicle and nothing to install in the car. | $20 per vehicle per month |
+| Product | What it does |
+|---|---|
+| **Parakaleo Engine** | Software that runs in the vehicle and reads a supported radar the vehicle already has. Needs a vehicle from 2010 or newer with a supported radar, plus parts you source yourself against our published specification. |
+| **Parakaleo Mobile** | Uses the sensors in a driver's phone through the Parakaleo Drive app. Nothing to buy for the vehicle and nothing to install in the car. |
 
 Accounts, vehicles and billing are handled in the licensing portal at [portal.parakaleoinc.com](https://portal.parakaleoinc.com). Our services are open to customers worldwide.
 
